@@ -28,6 +28,7 @@ const HomeScreen = () => {
                             fontSize:18
                         }
                     }}
+                    
                     query={{
                         key:GOOGLE_MAPS_APIKEY,
                         language:"en"
